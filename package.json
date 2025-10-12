@@ -2,7 +2,7 @@
   "name": "solaria-theme-icons",
   "displayName": "Solaria Theme Icons",
   "description": "A minimal, elegant icon theme designed to match the Solaria VS Code theme.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ovcharovcoder",
   "engines": { "vscode": "^1.90.0" },
   "icon": "icon.png",
