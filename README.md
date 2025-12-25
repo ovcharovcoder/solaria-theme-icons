@@ -37,4 +37,21 @@ Andriy Ovcharov
 ---
 
 ## 🪪 License  
-Released under the [MIT License](https://github.com/ovcharovcoder/solaria-theme-icons/blob/main/LICENSE.txt)
+Released under the [MIT License](https://github.com/ovcharovcoder/solaria-theme-icons/blob/main/LICENSE)
+
+---
+
+## 🧑‍💻 Development & Build
+
+**Requirements**
+
+- Node.js 18+
+- npm 9+
+- VS Code 1.81+
+
+
+**Install & Build**
+1. Download the project
+2. To build, use the following commands:<br>
+`npm install -g @vscode/vsce` <br>
+`vsce package`
